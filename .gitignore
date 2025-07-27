@@ -1,9 +1,11 @@
-/**/moc_*
-/**/*.o
-/**/*.pro.user
-
-/**/Makefile
-/**/build
-/server/database.db
+moc_*
+moc_predefs.h
+*.o
+*.pro.user
+*.pro.user.*
+Makefile*
+build-*
+*/build*
+*.db
 
 
