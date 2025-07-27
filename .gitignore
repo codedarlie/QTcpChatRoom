@@ -2,8 +2,8 @@ moc_*
 *.o
 *.pro.user
 
-/client/build
-/server/build
+/**/Makefile
+/**/build
 /server/database.db
 
 
